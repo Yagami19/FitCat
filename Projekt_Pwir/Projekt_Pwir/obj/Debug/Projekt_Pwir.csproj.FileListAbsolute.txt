@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Projekt_Pwir\Projekt_Pwir\obj\Debug\Projekt_Pwir.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Projekt_Pwir\Projekt_Pwir\bin\Debug\Projekt_Pwir.dll.config
+C:\Users\USER\source\repos\Projekt_Pwir\Projekt_Pwir\bin\Debug\Projekt_Pwir.dll
+C:\Users\USER\source\repos\Projekt_Pwir\Projekt_Pwir\bin\Debug\Projekt_Pwir.pdb
+C:\Users\USER\source\repos\Projekt_Pwir\Projekt_Pwir\obj\Debug\Projekt_Pwir.dll
+C:\Users\USER\source\repos\Projekt_Pwir\Projekt_Pwir\obj\Debug\Projekt_Pwir.pdb
+C:\Users\USER\source\repos\Projekt_Pwir\Projekt_Pwir\obj\Debug\Projekt_Pwir.csprojAssemblyReference.cache

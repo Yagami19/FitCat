@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:element name="CalculateEnergy">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="catWeight" type="xs:double" />
+        <xs:element minOccurs="0" name="multiplier" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalculateEnergyResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CalculateEnergyResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalculateDensity">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="protein" type="xs:double" />
+        <xs:element minOccurs="0" name="fat" type="xs:double" />
+        <xs:element minOccurs="0" name="ash" type="xs:double" />
+        <xs:element minOccurs="0" name="fiber" type="xs:double" />
+        <xs:element minOccurs="0" name="humidity" type="xs:double" />
+        <xs:element minOccurs="0" name="other" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalculateDensityResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="CalculateDensityResult" nillable="true" type="q1:ArrayOfdouble" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalculateGrams">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="catCalories" type="xs:double" />
+        <xs:element minOccurs="0" name="foodDensity" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalculateGramsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CalculateGramsResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

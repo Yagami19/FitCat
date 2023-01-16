@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\bin\Debug\Pwir_Projekt_Wpf.exe.config
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\bin\Debug\Pwir_Projekt_Wpf.exe
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\bin\Debug\Pwir_Projekt_Wpf.pdb
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\Pwir_Projekt_Wpf.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\Pwir_Projekt_Wpf_MarkupCompile.cache
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\Pwir_Projekt_Wpf_MarkupCompile.lref
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\Pwir_Projekt_Wpf.g.resources
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\Pwir_Projekt_Wpf.Properties.Resources.resources
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\Pwir_Projekt_Wpf.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\Pwir_Projekt_Wpf.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\Pwir_Projekt_Wpf.exe
+C:\Users\USER\source\repos\Pwir_Projekt_Wpf\Pwir_Projekt_Wpf\obj\Debug\Pwir_Projekt_Wpf.pdb
